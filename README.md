@@ -44,6 +44,9 @@
 
 ## Output
 
+![image](https://github.com/Nanditha285/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/blob/main/empd%20image%202.jpeg?raw=true)
+
+
 
 ### Name: NANDITHA SHAJI
 
