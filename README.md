@@ -40,7 +40,7 @@
 
 ## Input
 
-
+![image](https://github.com/Nanditha285/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/blob/main/Screenshot%202026-03-13%20140252.png?raw=true)
 
 ## Output
 
